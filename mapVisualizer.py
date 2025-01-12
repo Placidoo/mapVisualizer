@@ -1,6 +1,7 @@
 '''
 
     2D Map Visualizer by Dyo.ed
+    GitHub Link: https://github.com/Placidoo
 
     This code transforms your 2D Array into a
     more readable Grids.
